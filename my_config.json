@@ -1,0 +1,70 @@
+{
+  "generation": {
+    "frequency_hours": 4,
+    "mode": "local",
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "image_width": 832,
+    "image_height": 832,
+    "num_inference_steps": 50,
+    "guidance_scale": 9.0,
+    "negative_prompt": "ugly, blurry, low quality, deformed, disfigured, distorted proportions, bad anatomy, watermark, signature, text, low-res, unsaturated, oversaturated"
+  },
+  "themes": [
+    "brutalist",
+    "retrofuturism",
+    "cyberpunk",
+    "biological-mechanical fusion",
+    "glitch aesthetic",
+    "vaporwave",
+    "chrome and neon",
+    "cosmic horror",
+    "dystopian wasteland",
+    "solarpunk",
+    "digital psychedelia",
+    "synthwave",
+    "biomechanical",
+    "neo-tokyo",
+    "quantum realm",
+    "hyperrealism meets abstraction"
+  ],
+  "subjects": [
+    "cosmic entity observing human civilization",
+    "robot wearing baroque aristocratic clothing",
+    "capybara piloting mech suit in neon cityscape",
+    "chrome wolf with digital interface eyes",
+    "floating brutalist architecture defying gravity",
+    "sentient crystal organism interacting with technology",
+    "massive jellyfish drifting through city streets",
+    "ancient deity reimagined with cybernetic components",
+    "impossible geometric structure in liminal space",
+    "holographic fox spirit in digital forest",
+    "biomechanical heart powering a miniature world",
+    "retrofuturistic vinyl record player with consciousness",
+    "chrome samurai with neon energy katana",
+    "fractal creature emerging from internet cables",
+    "liquid metal entity forming from puddle",
+    "digital phoenix rising from electronic waste"
+  ],
+  "quality_keywords": [
+    "cinematic lighting",
+    "volumetric fog",
+    "ray tracing",
+    "8K UHD",
+    "intricate details",
+    "hyper-detailed",
+    "dramatic composition",
+    "photorealistic",
+    "depth of field",
+    "studio quality",
+    "Hasselblad photography",
+    "epic scale",
+    "award-winning digital art",
+    "octane render",
+    "unreal engine 5"
+  ],
+  "twitter": {
+    "post_caption": true,
+    "include_hashtags": true,
+    "max_hashtags": 4
+  }
+}
