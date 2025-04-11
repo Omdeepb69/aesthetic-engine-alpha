@@ -1,0 +1,7 @@
+tweepy (for Twitter API v2 interaction)
+diffusers (Hugging Face library for Stable Diffusion)
+transformers (Hugging Face library, needed by diffusers)
+torch (PyTorch, deep learning framework)
+python-dotenv (for managing API keys securely)
+Pillow (for image manipulation if needed)
+requests (if using external image generation APIs instead of local diffusers)
